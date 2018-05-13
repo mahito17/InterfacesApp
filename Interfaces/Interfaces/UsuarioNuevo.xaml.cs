@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+namespace Interfaces
+{
+	[XamlCompilation(XamlCompilationOptions.Compile)]
+	public partial class UsuarioNuevo : ContentView
+	{
+		public UsuarioNuevo ()
+		{
+			InitializeComponent ();
+		}
+	}
+}

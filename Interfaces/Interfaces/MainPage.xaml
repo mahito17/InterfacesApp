@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Interfaces"
+             x:Class="Interfaces.MainPage">
+
+    <StackLayout>
+        <Label Text = "Login" FontSize="Large" HorizontalOptions="CenterAndExpand"/>
+        <Entry x:Name = "txtusuario" Placeholder="Correo Electronico" HorizontalOptions="CenterAndExpand" WidthRequest="400"/>
+        <Entry x:Name = "txtcontrasena" Placeholder="Contraseña" HorizontalOptions="Center" IsPassword="True" WidthRequest ="400"/>
+        <Button Text = "Ingresar" Clicked="Clicked_login" HorizontalOptions="CenterAndExpand" WidthRequest ="400"/>
+    </StackLayout>
+</ContentPage>

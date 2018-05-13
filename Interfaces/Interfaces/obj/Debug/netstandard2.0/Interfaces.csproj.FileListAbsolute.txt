@@ -1,0 +1,9 @@
+D:\InterfacesApp\Interfaces\Interfaces\Interfaces\obj\Debug\netstandard2.0\Interfaces.csprojAssemblyReference.cache
+D:\InterfacesApp\Interfaces\Interfaces\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\InterfacesApp\Interfaces\Interfaces\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfoInputs.cache
+D:\InterfacesApp\Interfaces\Interfaces\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfo.cs
+D:\InterfacesApp\Interfaces\Interfaces\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
+D:\InterfacesApp\Interfaces\Interfaces\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb
+D:\InterfacesApp\Interfaces\Interfaces\Interfaces\bin\Debug\netstandard2.0\Interfaces.deps.json
+D:\InterfacesApp\Interfaces\Interfaces\Interfaces\bin\Debug\netstandard2.0\Interfaces.dll
+D:\InterfacesApp\Interfaces\Interfaces\Interfaces\bin\Debug\netstandard2.0\Interfaces.pdb

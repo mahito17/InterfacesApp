@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Interfaces.UsuarioNuevo">
+  <ContentView.Content>
+      <StackLayout>
+            <Label Text = "Registro Usuario" FontSize="Large" HorizontalOptions="CenterAndExpand"/>
+            <Entry x:Name = "txtnombre" Placeholder="Nombres: " HorizontalOptions="CenterAndExpand" WidthRequest="400"/>
+            <Entry x:Name = "txtcorreo" Placeholder="Correo Electronico: " HorizontalOptions="CenterAndExpand" WidthRequest="400"/>
+            <Entry x:Name = "txttelefono" Placeholder="Correo Electronico: " HorizontalOptions="CenterAndExpand" WidthRequest="400"/>
+            <Entry x:Name = "txtcontraseña" Placeholder="Contraseña: " HorizontalOptions="Center" IsPassword="True" WidthRequest="400"/>
+            <Entry x:Name = "txtcontraseña" Placeholder="Repita Contraseña" HorizontalOptions="Center" IsPassword="True" WidthRequest="400"/>
+            <Button Text = "Registrar" Clicked="Clicked_login" HorizontalOptions="CenterAndExpand" WidthRequest ="400"/>
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>
